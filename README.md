@@ -1,0 +1,2 @@
+# unicode_hzk_smlib_gen
+Unicode内码的汉字库点阵小字库制作工具
